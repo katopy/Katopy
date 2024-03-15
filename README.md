@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi, I'm Katherine:
 🙋🏻‍♀️ I’m currently growing up as a web developer<br>🤖 Focusing on backend development<br>🌱 I like to learn something new every day<br>☕ Drinking coffee and listening to music all the time 🎸
 
 
