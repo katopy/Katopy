@@ -19,6 +19,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/katopy/katopy/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/katopy/Katopy/output/snake.svg" alt="Snake animation" />
 
 ###
